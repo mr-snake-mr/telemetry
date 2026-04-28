@@ -7,7 +7,7 @@ import requests
 # CONFIG — Point to your live Vercel API
 # ══════════════════════════════════════════════════════════════════
 
-VERCEL_API = "https://telemetry-platform.vercel.app"  # ← your URL here
+VERCEL_API = "https://telemetry-black.vercel.app"  # ← your URL here
 
 st.set_page_config(
     page_title = "📡 Telemetry Platform",
